@@ -1,0 +1,1 @@
+Fork from https://github.com/Drakirus/java-chat, add send image and send text file, remove emoji.
